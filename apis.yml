@@ -1,20 +1,58 @@
 aid: aglocal
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aglocal.png
 name: AgLocal
-description: AgLocal is a company surfaced as a portfolio company of a16z and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  AgLocal was a venture-backed food-technology startup (founded 2011 by Mike Hsieh and Naithan Jones,
+  Kansas City / San Francisco) that built an online marketplace connecting small family ranchers and
+  sustainable meat producers directly with buyers. It launched in 2013 as a ranch-to-restaurant
+  marketplace serving chefs, then pivoted in 2014 to a consumer-facing monthly meat subscription
+  service. Backed by Andreessen Horowitz (a16z), Chicago Ventures and others across roughly $3.8M in
+  funding, the company shut down in 2015, stating it could not reach a self-sustaining business model.
+  It is added to the API Evangelist network as an a16z portfolio lead; the company is now defunct and
+  its domain (aglocal.com) is parked/for sale, so no live developer portal, API, or specifications
+  exist to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/aglocal/refs/heads/main/apis.yml
 x-type: company
 x-source: a16z-portfolio
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-note: >-
+  Company ceased operations in 2015; aglocal.com now resolves to a HugeDomains parked/for-sale page
+  (verified 2026-07-17). No API, developer portal, OpenAPI, SDKs, or other developer artifacts exist.
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Agriculture
+- Food
+- Marketplace
+- Meat
+- Subscription
+- E-Commerce
+- Sustainability
+- Defunct
+- a16z Portfolio
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
