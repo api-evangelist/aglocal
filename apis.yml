@@ -31,7 +31,7 @@ x-status: defunct
 x-status-note: >-
   Company ceased operations in 2015; aglocal.com now resolves to a HugeDomains parked/for-sale page
   (verified 2026-07-17). No API, developer portal, OpenAPI, SDKs, or other developer artifacts exist.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
