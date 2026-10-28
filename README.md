@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-AgLocal is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Source: portfolio company of [a16z](https://github.com/api-evangelist/a16z)
+AgLocal was a venture-backed food-technology startup (founded 2011 by Mike Hsieh and Naithan Jones, Kansas City / San Francisco) that built an online marketplace connecting small family ranchers and sustainable meat producers directly with buyers. It launched in 2013 as a ranch-to-restaurant marketplace serving chefs, then pivoted in 2014 to a consumer-facing monthly meat subscription service. Backed by Andreessen Horowitz (a16z), Chicago Ventures and others across roughly $3.8M in funding, the company shut down in 2015, stating it could not reach a self-sustaining business model. It is added to the API Evangelist network as an a16z portfolio lead; the company is now defunct and its domain (aglocal.com) is parked/for sale, so no live developer portal, API, or specifications exist to enrich.
+
+**Areas:** Company · Agriculture · Food · Marketplace · Meat · Subscription · E-Commerce · Sustainability · Defunct · a16z Portfolio
+
+## AgLocal on APIs.io (historical record)
+
+Everything profiled for AgLocal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aglocal/](https://apis.io/providers/aglocal/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AgLocal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aglocal/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
